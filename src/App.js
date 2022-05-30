@@ -1,4 +1,4 @@
-import Location from './components/location';
+import Location from './components/map';
 import Header from './components/header';
 import Navbar from './components/nav';
 import React from 'react';
