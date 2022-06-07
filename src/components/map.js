@@ -1,3 +1,4 @@
+/*global kakao */
 import React, { useEffect } from 'react';
 import KakaoMapScript from "./kakaomapscript";
 
