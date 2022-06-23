@@ -11,7 +11,8 @@ export default function Map() {
     return (
         <div id='myMap' style={{
             width: '100vw',
-            height: '100vh'
-        }}></div>
+            height: '100vw'
+        }}>
+        </div>
     );
 }
