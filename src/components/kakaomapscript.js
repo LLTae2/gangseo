@@ -25,7 +25,7 @@ export default function KakaoMapScript() {
     const iwContent = `
       <div class="iwBox">
         <div class="contentBox>
-          <h4 class="iwTitle">${el.tourName}</h4>
+          <h3 id="inTitle" class="iwTitle">${el.tourName}</h3>
           <p class="iwContent">${el.tourExplain}</p>
         </div>
         <div class="imgBox">
