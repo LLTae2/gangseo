@@ -100,3 +100,41 @@ main{
     box-sizing: border-box;
 }
 
+#review {
+    width: 600px;
+   height: 500px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+  background-color: green;
+}
+.rvBox {
+   padding: 30px;
+    width: 500px;
+   height: 350px;
+  display: flex;
+   flex-direction: column;
+   align-items: center;
+    background-color: blue;
+}
+.rvTourSelect {
+  width: 200px;
+   height: 30px;
+   font-size: 15px;
+   text-align: center;
+}
+.rvInput {
+  width: 60px;
+   height: 30px;
+   font-size: 15px;
+   text-align: center;
+}
+.rvText {
+  width: 430px;
+  height: 250px;
+   margin: 20px;
+}
+.rvButton {
+  width: 430px;
+    height: 50px;
+}
